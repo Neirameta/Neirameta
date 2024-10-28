@@ -1,5 +1,18 @@
 # LifeEnergy
+```markdown
+# LifeEnergy
 
+Your personal source of energy and inspiration
+
+## About
+Welcome to LifeEnergy - a place where energy meets lifestyle. We believe in the power of natural energy and its ability to transform lives.
+
+## Features
+- Personalized energy tips
+- Lifestyle recommendations
+- Wellness inspiration
+- Community support
+```
 <!--
 **Neirameta/Neirameta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
